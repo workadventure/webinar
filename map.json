@@ -393,9 +393,19 @@
                          "value":"amphi"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
                         }],
                  "type":"tilelayer",
                  "visible":true,
